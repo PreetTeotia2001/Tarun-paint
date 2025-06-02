@@ -1,0 +1,15 @@
+{
+  "name": "Tarun Paint Form",
+  "short_name": "Tarun Form",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "icon.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
